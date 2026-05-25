@@ -75,7 +75,7 @@ NVIDIA also exhibited the highest rolling volatility among the selected equities
 
 ### Rolling Volatility Chart
 
-![Rolling Volatility](charts/rolling_volatility.png)
+![Rolling Volatility](volatility.png)
 
 ---
 
@@ -85,8 +85,7 @@ Daily returns across the selected equities displayed positive correlations, sugg
 
 ### Correlation Heatmap
 
-![Correlation Heatmap](charts/correlation_heatmap.png)
-
+![Correlation Heatmap](correlation.png)
 ---
 
 # Proposed Trading Strategy
