@@ -65,7 +65,7 @@ NVIDIA significantly outperformed peer technology equities during the sample per
 
 ### Normalized Performance Chart
 
-![Normalized Performance](charts/normalized_performance.png)
+![Normalized Performance](normalized_performance.png)
 
 ---
 
